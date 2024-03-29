@@ -15,6 +15,8 @@ Based on the principles of the efficient market hypothesis, which suggests that 
 -   **Data Fetching and Authentication**: Includes the `IGAPIClient` class to authenticate and fetch real-time market data from trading platforms.
 -   **Visualization**: Provides visual representation of log returns with their respective weights for easier analysis and understanding.
 -   **Customizable Analysis**: Users can adjust parameters like the volatility threshold to suit different analysis needs.
+  
+<img width="551" alt="image" src="https://github.com/tg12/sentiment-sleuth/assets/12201893/f8dafc50-8040-413c-90cd-b50b04888ac9">
 
 ## Contributing
 
