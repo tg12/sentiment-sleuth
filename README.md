@@ -29,3 +29,13 @@ This project is provided "AS IS", without warranty of any kind. By using this to
 ## Credits and Acknowledgments
 
 If you find this Market Trend Analysis Tool useful in your research, projects, or in any other capacity, I kindly ask for acknowledgment by crediting me as the original author. A simple reference to my contribution can help support the development of more open-source tools and resources in the financial analysis domain.
+
+## Support
+
+If you find this project useful, consider supporting it:
+
+| Currency | Address |
+|----------|---------|
+| **Bitcoin (BTC)** | `3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54` |
+| **Ethereum (ETH)** | `0x5851e6145F4773d1585b8686095FB16E368a4dA1` |
+| **ZCash (ZEC)** | `t1KSR5YkNPbjqRSCoLKo5AddFWdm9Kzxh1B` |
